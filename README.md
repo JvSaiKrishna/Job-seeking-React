@@ -20,8 +20,7 @@ This is a forntend **Job Seeking App** built using  React.
 git https://github.com/JvSaiKrishna/Job-seeking-React.git
 
 ## ** 2 Install dependencies **
-** Forntend **
-npm install
-npm start  # Runs React app on localhost:3000
+-npm install
+-npm start  # Runs React app on localhost:3000
 
 
