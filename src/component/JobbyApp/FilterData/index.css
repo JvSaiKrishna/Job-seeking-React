@@ -1,0 +1,26 @@
+.employment-or-range-container{
+ font-family: "Roboto";
+ font-size: 18px;
+ color: white;   
+ margin-top: 20px;
+ display: flex;
+ flex-direction: column;
+ align-items: start;
+ width: 90%;
+}
+.employment-or-range-list{
+    margin-top: 20px;
+    list-style-type: none;
+}
+.employment-or-range-btn{
+    background-color: transparent;
+    color: white;
+    border: 0px;
+    cursor: pointer;
+    outline: none;
+    display: flex;
+}
+.employment-or-range-input{
+    margin-right: 20px;
+
+}

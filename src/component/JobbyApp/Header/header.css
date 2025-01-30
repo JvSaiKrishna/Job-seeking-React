@@ -1,0 +1,47 @@
+.header{
+    background-color: #272727;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.btn{
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+    text-decoration: none;
+    outline: none;
+}
+.header-logo {
+
+    height: 35px;
+    /* margin-bottom: 20px; */
+}
+.u-list{
+    display: flex;
+}
+.list2{
+    color: white;
+}
+.list{
+    list-style: none;
+    font-family: "Roboto";
+    font-size: 19px;
+    margin-right: 15px;
+    font-weight: 600;
+
+}
+.logout{
+    width: 60px;
+    height: 25px;
+    color: white;
+    font-family: "Roboto";
+    background-color:  #4f46e5;
+    border: 0px;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+
+}
